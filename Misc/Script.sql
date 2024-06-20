@@ -1,17 +1,3 @@
-# Product-Manager-Endpoint
-API demo (including UT and IT)
-App name: Product Manager
-It adds, finds, updates and deletes products
-
-
-Tests project: Product.Manager.Tests
-Data source project: Product.Manager.Data
-Logic project: Product.Manager.Logic
-
-SQL Server
-Data base name: ProductManager
-
-SCRIPT:
 USE master;
 GO
 
